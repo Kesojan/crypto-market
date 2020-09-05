@@ -3,7 +3,7 @@
 A simple crypto management app which calculates and compares the market value for 1300+ cryptocurrencies.
 Built using React, Ruby on Rails, PostgreSQL and CSS(flexbox,grids).
 
-This is a simple project from a bootcamp course to help me learn Ruby more in depth.
+This is a simple project from a bootcamp course to help me learn Ruby.
 
 Curent API is not working, so im in the process of building an API wrapper from scratch using Ruby which eliminates the worry of APIs being private by having a rotation of 5 APIs to calculate crypto values in real time.
 
