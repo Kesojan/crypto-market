@@ -15,7 +15,7 @@ const PortfolioItem = (props) => {
         </div>
 
         <div className="col">
-          <div className="header">Amount In Your Portfolio:</div>
+          <div className="header">Amount In Your Account:</div>
           <div className="text">{props.item.amount}</div>
         </div>
 
